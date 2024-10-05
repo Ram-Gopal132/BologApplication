@@ -1,0 +1,2 @@
+# BologApplication
+ My New Blog
